@@ -78,7 +78,7 @@ function App() {
 
   return (
     <>
-      <div className={`min-h-screen flex flex-col items-center justify-center ${dark ? "bg-[#0D0714]" : "bg-[#3E1671]"} text-white p-4`}>
+      <div className={`min-h-screen flex flex-col items-center justify-start pt-20 ${dark ? "bg-[#0D0714]" : "bg-[#3E1671]"} text-white p-4`}>
         <button
           onClick={() => setDark(!dark)}
           className={`absolute top-[20px] right-[20px] rounded-md text-white p-2 ${dark ? "bg-[#3E1671]" : "bg-[#6636a5]"}`}
