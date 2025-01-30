@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "completed": true,
+      "text": "salom",
+      "id": "308a2883-c48c-47a7-bc4e-1a61168f654c"
+    },
+    {
+      "completed": true,
+      "text": "salom dunyo",
+      "id": "c9a868a8-938f-4e22-b22b-4f9784cd9c07"
+    }
+  ]
+}
